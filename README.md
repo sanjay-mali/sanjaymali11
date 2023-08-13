@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjay Mali
-- 👀 I’m a Developer
+- 👀 I’m a Front-end Developer
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on Web Dev
 
